@@ -1,7 +1,6 @@
 
-[![logo-dev-junior-mostblack](https://i.ibb.co/v1V4qMs/logo-dev-junior-mostblack.png)](https://imgbb.com/)
+[![logo-dev-junior-mostblack](https://i.ibb.co/v1V4qMs/logo-dev-junior-mostblack.png)](https://imgbb.com/) ## Desenvolvedor Full Stack  :  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## Desenvolvedor Full Stack  :  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 ### Backend
 - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 ### Frontend
